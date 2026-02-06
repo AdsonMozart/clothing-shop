@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ClothingShop.Application/1.0.0": {
+        "dependencies": {
+          "ClothingShop.Communication": "1.0.0"
+        },
+        "runtime": {
+          "ClothingShop.Application.dll": {}
+        }
+      },
+      "ClothingShop.Communication/1.0.0": {
+        "runtime": {
+          "ClothingShop.Communication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClothingShop.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClothingShop.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

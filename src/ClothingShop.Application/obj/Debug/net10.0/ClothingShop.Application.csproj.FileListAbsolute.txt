@@ -1,0 +1,15 @@
+E:\Projetos\ClothingShop\src\ClothingShop.Application\bin\Debug\net10.0\ClothingShop.Application.deps.json
+E:\Projetos\ClothingShop\src\ClothingShop.Application\bin\Debug\net10.0\ClothingShop.Application.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Application\bin\Debug\net10.0\ClothingShop.Application.pdb
+E:\Projetos\ClothingShop\src\ClothingShop.Application\bin\Debug\net10.0\ClothingShop.Communication.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Application\bin\Debug\net10.0\ClothingShop.Communication.pdb
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.csproj.AssemblyReference.cache
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.AssemblyInfoInputs.cache
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.AssemblyInfo.cs
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\Clothing.8A435C05.Up2Date
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\refint\ClothingShop.Application.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ClothingShop.Application.pdb
+E:\Projetos\ClothingShop\src\ClothingShop.Application\obj\Debug\net10.0\ref\ClothingShop.Application.dll

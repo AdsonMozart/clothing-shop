@@ -1,0 +1,11 @@
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\bin\Debug\net10.0\ClothingShop.Communication.deps.json
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\bin\Debug\net10.0\ClothingShop.Communication.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\bin\Debug\net10.0\ClothingShop.Communication.pdb
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ClothingShop.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ClothingShop.Communication.AssemblyInfoInputs.cache
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ClothingShop.Communication.AssemblyInfo.cs
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ClothingShop.Communication.csproj.CoreCompileInputs.cache
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ClothingShop.Communication.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\refint\ClothingShop.Communication.dll
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ClothingShop.Communication.pdb
+E:\Projetos\ClothingShop\src\ClothingShop.Communication\obj\Debug\net10.0\ref\ClothingShop.Communication.dll

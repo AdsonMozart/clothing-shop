@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/ClothingShop.Api/ClothingShop.Api.csproj" />
+  <Project Path="src/ClothingShop.Application/ClothingShop.Application.csproj" />
+  <Project Path="src/ClothingShop.Communication/ClothingShop.Communication.csproj" />
+  <Project Path="src/ClothingShop.Domain/ClothingShop.Domain.csproj" />
+</Solution>
